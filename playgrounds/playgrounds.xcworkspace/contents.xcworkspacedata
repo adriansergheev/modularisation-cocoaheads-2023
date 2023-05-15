@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:pre.playground">
+   </FileRef>
+   <FileRef
+      location = "group:first.playground">
+   </FileRef>
+   <FileRef
+      location = "group:second.playground">
+   </FileRef>
+   <FileRef
+      location = "group:third.playground">
+   </FileRef>
+   <FileRef
+      location = "group:end.playground">
+   </FileRef>
+   <FileRef
+      location = "group:_bonus.playground">
+   </FileRef>
+</Workspace>
